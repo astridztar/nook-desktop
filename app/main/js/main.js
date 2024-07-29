@@ -111,10 +111,14 @@ const template = `
                   <option value="new-leaf" selected data-i18n="AC: New Leaf (3DS)"></option>
                   <option value="new-leaf-rainy" data-i18n="AC: New Leaf (3DS) [Rainy]"></option>
                   <option value="new-leaf-snowy" data-i18n="AC: New Leaf (3DS) [Snowy]"></option>
+                  <option value="amiibo-festival" data-i18n="AC: Amiibo Festival (Wii U) [Sunny]"></option>
+                  <option value="amiibo-festival" data-i18n="AC: Amiibo Festival (Wii U) [Rainy]"></option>
+                  <option value="amiibo-festival" data-i18n="AC: Amiibo Festival (Wii U) [Snowy]"></option>
                   <option value="new-horizons" data-i18n="AC: New Horizons (Switch)"></option>
                   <option value="new-horizons-rainy" data-i18n="AC: New Horizons (Switch) [Rainy]"></option>
                   <option value="new-horizons-snowy" data-i18n="AC: New Horizons (Switch) [Snowy]"></option>
                   <option value="pocket-camp" data-i18n="AC: Pocket Camp (Mobile)"></option>
+                  
                   <optgroup label="&nbsp;"></optgroup>
                   <option value="kk-slider-desktop" data-i18n="K.K. Slider"></option>
                   <option value="random" data-i18n="Random"></option>
