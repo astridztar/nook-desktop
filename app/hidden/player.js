@@ -70,7 +70,7 @@ const tunesBeepMap = [
   'E6'
 ]
 const games = [
-  'population-growing', 'population-growing-snowy', 'population-growing-cherry', 'population-growing-rainy', 'wild-world', 'wild-world-rainy', 'wild-world-snowy', 'new-leaf', 'new-leaf-rainy', 'new-leaf-snowy', 'new-horizons', 'new-horizons-rainy', 'new-horizons-snowy', 'pocket-camp'
+  'population-growing', 'population-growing-snowy', 'population-growing-cherry', 'population-growing-rainy', 'wild-world', 'wild-world-rainy', 'wild-world-snowy', 'new-leaf', 'new-leaf-rainy', 'new-leaf-snowy', 'new-horizons', 'new-horizons-rainy', 'new-horizons-snowy', 'pocket-camp', 'amiibo-festival'
 ]
 
 const convertGameToHuman = (game) => {
